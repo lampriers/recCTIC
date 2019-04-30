@@ -1,6 +1,6 @@
 # A Recurrent Neural Cascade-based Model for Continuous-Time Diffusion
 
-This is the platform developped for the paper "A Recurrent Neural Cascade-based Model for Continuous-Time Diffusion - Sylvain Lamprier, LIP6, Sorbonne Universités" published at ICML 2019".
+This is the platform developped for the paper "A Recurrent Neural Cascade-based Model for Continuous-Time Diffusion - Sylvain Lamprier, LIP6, Sorbonne Universités" published at ICML 2019.
 
 It contains the code for the proposed model and the compared baselines in PyTorch1.0 (python3.6):
 - recCTIC.py: the proposed model and the embCTIC baseline
